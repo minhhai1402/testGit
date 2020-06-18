@@ -1,0 +1,33 @@
+.container-fluid{
+	margin-top: 25px;
+}
+form{
+	background-color: #ccc;
+	border-radius: 2px; 
+	padding: 5px;
+	margin-left: 30px;
+	margin-right:  29px;
+	border-width: 2px;
+
+}
+#result{
+	font-size: 25px;
+	height: 75px;
+}
+form table td input{
+	width: 50px;
+	padding: 5px 5px;
+	margin-top: 10px;
+	background-color: #333333d9;
+	color: white;
+	font-weight: bold;
+	border-radius: 10px;
+}
+form table td input:hover{
+	background-color: #96BC23;
+  	color: #E419B2;
+}
+form .title.text-center{
+	font-weight: bold;
+	font-size: 25px;
+}
